@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prajwal1008
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning BE Computer Engineering 
+- 🌱 BE Computer Engineering 
 - 💞️ I’m looking to collaborate on Web Development 
 - 📫 How to reach me @9890153814
 
